@@ -1,0 +1,1 @@
+# uso_disco_memoria_temp
