@@ -1,1 +1,3 @@
-# uso_disco_memoria_temp
+# Aviso de Disco, Memória e Temperatura
+
+### Esse script faz 
